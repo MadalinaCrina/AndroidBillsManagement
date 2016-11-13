@@ -9,3 +9,6 @@ User instructions:
 - click on button for create another bill
 - click on a bill to change the name of it
 - long click on a bill to delete it
+
+
+----- Server is located at https://github.com/MadalinaCrina/RNBillsManagement/Server ------
